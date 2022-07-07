@@ -23,5 +23,7 @@ public class Control2_ex2 {
 		int num = sh+1;
 		System.out.println((char)num);*/
 		//home
+		
+		//study
 	}
 }
