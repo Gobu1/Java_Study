@@ -24,6 +24,6 @@ public class Control2_ex2 {
 		System.out.println((char)num);*/
 		//home
 		
-		//study
+		//study123
 	}
 }
