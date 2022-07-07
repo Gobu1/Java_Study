@@ -22,8 +22,6 @@ public class Control2_ex2 {
 		/*char sh = sc.next().charAt(0);
 		int num = sh+1;
 		System.out.println((char)num);*/
-		//home
-		
-		//study22
+
 	}
 }
